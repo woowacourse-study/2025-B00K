@@ -17,7 +17,7 @@
 
 | 날짜  | 범위   | 주제 | PR 링크 |
 |-------|--------|------|---------|
-| 0418  | 3장 pg.64~81  | 액티비티 생명주기 | [모찌](https://github.com/wondroid-world) [뭉치](https://github.com/m6z1) [미플](https://github.com/HamBeomJoon) [토바에](https://github.com/vvn89) |
+| 0418  | 3장 pg.64~81  | 액티비티 생명주기 | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/pull/3) [미플](https://github.com/woowacourse-study/2025-B00K/pull/2) [토바에](https://github.com/woowacourse-study/2025-B00K/pull/1) |
 
 ## 벌금
 강제성과 책임감을 부여하기 위해서 벌금을 건다.
