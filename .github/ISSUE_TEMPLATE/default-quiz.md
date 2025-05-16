@@ -1,7 +1,7 @@
 ---
-name: Q. (궁금한 내용을 입력해주세요)
+name: Default Quiz
 about: Q&A 토론용 Issue Template
-title: ''
+title: 'Q. '
 labels: ''
 assignees: ''
 

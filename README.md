@@ -2,7 +2,7 @@
 안드로이드 크루들의 B👀K 스터디
 
 ## 진행 방식
-**`매주 금요일 2-4시 (총 2시간)`**
+**`매주 금요일 3-4시 (총 1시간)`**
 
 1. 매주 화요일 / 지난주 금요일 강의 시간에 배운 내용의 관련 챕터 **10장 정도**를 읽고 정리한다. (정리 필수임!)
 2. 스터디 시간 전으로 각자 정리한 내용의 PR 을 올린다. (레포 fork → 커밋 → PR 생성)
@@ -10,14 +10,50 @@
 3. 스터디 시간에는 [공 굴리기](https://lazygyu.github.io/roulette/) 를 통해 매주 발표자를 선정한다. 
     - 읽으며 1회독 / 정리하며 1회독 / 발표 or 청강 하며 1회독 → 총 3회독 가능!
     - 전 주와 발표자가 중복될 경우 다시 굴린다.
-4. 스터디 진행 후 책을 읽으며 궁금했던 점, 발표 내용과 생각이 다른 점을 토론한다.
+4. 스터디 진행 후 책을 읽으며 궁금했던 점, 발표 내용과 생각이 다른 점 등을 토론한다.
 
-## 목차
-### 📘 실무에 바로 적용하는 안드로이드 프로그래밍
+## 퀴즈
+1. `책` 혹은 `강의에 나온 내용` 혹은 `내가 만든 퀴즈`가 있으면 Issue Template을 사용해 Issue 를 발행한다.
+2. 해당 Issue 에 코멘트로 답변을 단다.
+3. 답변 혹은 질문하고 답을 얻으며 학습한다.
 
-| 날짜  | 범위   | 주제 | PR 링크 |
+## 컨벤션
+1. Repository 를 fork 한다.
+2. 각자 fork한 Repository에서 한 주차의 내용을 커밋한다.
+    - 파일 제목: `뭉치.md`
+    - 커밋 제목: `docs: 토바에 1장 정리`
+    - 디렉토리 구조(예정)
+    
+    ```kotlin
+    project
+    ├── 책A
+    │   ├── 1장
+    │   │   └── 토바에.md
+    │   └── 2장
+    │       ├── 뭉치.md
+    │       └── 미플.md
+    └── 책B
+        ├── 10장
+        │   └── 모찌.md
+        └── 8장
+            └── 모찌.md
+    ```
+    
+3. PR 제목을 `[책 이름 - XX장] 미플` 로 생성한다.
+4. 스터디가 끝나고 금요일 내로 머지한다.
+
+## 목차 
+
+<details>
+<Summary>실무에 바로 적용하는 안드로이드 프로그래밍</Summary>
+    
+| 날짜  | 범위   | 주제 | 정리본 바로가기 |
 |-------|--------|------|---------|
-| 0418  | 3장 pg.64~81  | 액티비티 생명주기 | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/pull/3) [미플](https://github.com/woowacourse-study/2025-B00K/pull/2) [토바에](https://github.com/woowacourse-study/2025-B00K/pull/1) |
+| 0418  | 3장 pg.64~81  | 액티비티 생명주기 | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%EB%AD%89%EC%B9%98.md) [미플](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%EB%AF%B8%ED%94%8C.md) [토바에](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3%EC%9E%A5/%ED%86%A0%EB%B0%94%EC%97%90.md) |
+| 0425  | 6장 pg.125~149 | Intent | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6%EC%9E%A5/%EB%AD%89%EC%B9%98.md) [미플](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6%EC%9E%A5/%EB%AF%B8%ED%94%8C.md) [토바에](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6%EC%9E%A5/%ED%86%A0%EB%B0%94%EC%97%90.md) |
+| 0502  | 9장 pg.201~218 | RecyclerView | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9%EC%9E%A5/%EB%AD%89%EC%B9%98.md) [미플](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9%EC%9E%A5/%EB%AF%B8%ED%94%8C.md) [토바에](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9%EC%9E%A5/%ED%86%A0%EB%B0%94%EC%97%90.md) |
+| 0509  | 8장 | Fragment | [모찌](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8%EC%9E%A5/%EB%AA%A8%EC%B0%8C.md) [뭉치](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8%EC%9E%A5/%EB%AD%89%EC%B9%98.md) [미플](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8%EC%9E%A5/%EB%AF%B8%ED%94%8C.md) [토바에](https://github.com/woowacourse-study/2025-B00K/blob/main/%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/8%EC%9E%A5/%ED%86%A0%EB%B0%94%EC%97%90.md) |
+</details>
 
 ## 벌금
 강제성과 책임감을 부여하기 위해서 벌금을 건다.
