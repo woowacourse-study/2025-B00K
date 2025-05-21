@@ -61,7 +61,7 @@
 
 책을 읽지 않은(정리 못한) 스터디원은 **그 날 스터디의 간식을 살 수 있는 기회를 가진다. ^__^**
 
-**단, 정말로 불가피한 사정이 있다면 사전에 말씀한 후 스터디 건너뛸 수 있다!**
+**단, 정말로 불가피한 사정이 있다면 사전에 공유한 후 스터디 건너뛸 수 있다!**
 
 ## 스터디원
 |<img src="https://avatars.githubusercontent.com/u/192606356?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/114990782?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/37996727?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/176254419?v=4" width="125" />|
