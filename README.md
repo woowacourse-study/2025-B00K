@@ -50,6 +50,14 @@
 **단, 정말로 불가피한 사정이 있다면 사전에 공유한 후 스터디 건너뛸 수 있다!**
 
 ## 스터디원
+
+### 2기
+|<img src="https://avatars.githubusercontent.com/u/114990782?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/84930748?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/176254419?v=4" width="125" />|
+|:---------:|:---------:|:---------:|
+|[뭉치](https://github.com/m6z1)</br>|[페토](https://github.com/chanho0908)</br>|[토바에](https://github.com/vvn89)</br>|
+</br>
+
+### 1기
 |<img src="https://avatars.githubusercontent.com/u/192606356?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/114990782?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/37996727?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/176254419?v=4" width="125" />|
 |:---------:|:---------:|:---------:|:---------:|
 |[모찌](https://github.com/wondroid-world)</br>|[뭉치](https://github.com/m6z1)</br>|[미플](https://github.com/HamBeomJoon)</br>|[토바에](https://github.com/vvn89)</br>|
