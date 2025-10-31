@@ -1,5 +1,3 @@
-## Activity & Task
-
 ### FLAG_ACTIVITY_NEW_TASK | FLAG_ACTIVITY_CLEAR_TOP를 함께 사용하는 이유  
 새로운 태스크에서 액티비티를 시작하되, 이미 존재하는 동일한 액티비티가 있다면 중복 생성하지 않고 기존 액티비티 위의 모든 액티비티를 제거하고 재사용하기 위함.
 <details>
